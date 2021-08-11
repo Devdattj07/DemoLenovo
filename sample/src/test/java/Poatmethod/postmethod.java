@@ -1,5 +1,5 @@
 package Poatmethod;
-
+import org.testng.Assert;
 import org.testng.annotations.Test;        // 
 import static io.restassured.RestAssured.*;//
 import static org.hamcrest.Matcher.*;  
@@ -12,7 +12,7 @@ import org.testng.annotations.Test;
  
 import Testclass.postutils;
 import io.restassured.RestAssured;
-
+import org.testng.Assert;
 public class postmethod {
 
 	

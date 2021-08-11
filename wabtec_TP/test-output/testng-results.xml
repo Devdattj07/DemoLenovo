@@ -2,28 +2,28 @@
 <testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-08-06T14:44:00Z" name="Default suite" finished-at="2021-08-06T14:44:03Z" duration-ms="3316">
+  <suite started-at="2021-08-10T18:35:12Z" name="Default suite" finished-at="2021-08-10T18:35:15Z" duration-ms="3031">
     <groups>
     </groups>
-    <test started-at="2021-08-06T14:44:00Z" name="Default test" finished-at="2021-08-06T14:44:03Z" duration-ms="3316">
+    <test started-at="2021-08-10T18:35:12Z" name="Default test" finished-at="2021-08-10T18:35:15Z" duration-ms="3031">
       <class name="Testcases.Testcase">
-        <test-method signature="getmethod1()[pri:1, instance:Testcases.Testcase@3e6f3f28]" started-at="2021-08-06T20:14:00Z" name="getmethod1" finished-at="2021-08-06T20:14:02Z" duration-ms="1605" status="PASS">
+        <test-method signature="getmethod1()[pri:1, instance:Testcases.Testcase@3e6f3f28]" started-at="2021-08-11T00:05:12Z" name="getmethod1" finished-at="2021-08-11T00:05:13Z" duration-ms="1441" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getmethod1 -->
-        <test-method signature="getmethod2()[pri:2, instance:Testcases.Testcase@3e6f3f28]" started-at="2021-08-06T20:14:02Z" name="getmethod2" finished-at="2021-08-06T20:14:02Z" duration-ms="363" status="PASS">
+        <test-method signature="getmethod2()[pri:2, instance:Testcases.Testcase@3e6f3f28]" started-at="2021-08-11T00:05:13Z" name="getmethod2" finished-at="2021-08-11T00:05:14Z" duration-ms="328" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getmethod2 -->
-        <test-method signature="getmethod3()[pri:3, instance:Testcases.Testcase@3e6f3f28]" started-at="2021-08-06T20:14:02Z" name="getmethod3" finished-at="2021-08-06T20:14:02Z" duration-ms="269" status="PASS">
+        <test-method signature="getmethod3()[pri:3, instance:Testcases.Testcase@3e6f3f28]" started-at="2021-08-11T00:05:14Z" name="getmethod3" finished-at="2021-08-11T00:05:14Z" duration-ms="224" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getmethod3 -->
-        <test-method signature="getmethod4()[pri:4, instance:Testcases.Testcase@3e6f3f28]" started-at="2021-08-06T20:14:02Z" name="getmethod4" finished-at="2021-08-06T20:14:03Z" duration-ms="753" status="PASS">
+        <test-method signature="getmethod4()[pri:4, instance:Testcases.Testcase@3e6f3f28]" started-at="2021-08-11T00:05:14Z" name="getmethod4" finished-at="2021-08-11T00:05:15Z" duration-ms="765" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getmethod4 -->
-        <test-method signature="getmethod5()[pri:5, instance:Testcases.Testcase@3e6f3f28]" started-at="2021-08-06T20:14:03Z" name="getmethod5" finished-at="2021-08-06T20:14:03Z" duration-ms="306" status="PASS">
+        <test-method signature="getmethod5()[pri:5, instance:Testcases.Testcase@3e6f3f28]" started-at="2021-08-11T00:05:15Z" name="getmethod5" finished-at="2021-08-11T00:05:15Z" duration-ms="256" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getmethod5 -->

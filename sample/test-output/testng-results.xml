@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="0" failed="0" skipped="1">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-08-07T05:44:12Z" name="Default suite" finished-at="2021-08-07T05:44:13Z" duration-ms="422">
+  <suite started-at="2021-08-11T05:06:06Z" name="Default suite" finished-at="2021-08-11T05:06:07Z" duration-ms="413">
     <groups>
     </groups>
-    <test started-at="2021-08-07T05:44:12Z" name="Default test" finished-at="2021-08-07T05:44:13Z" duration-ms="422">
+    <test started-at="2021-08-11T05:06:06Z" name="Default test" finished-at="2021-08-11T05:06:07Z" duration-ms="413">
       <class name="Poatmethod.postmethod">
-        <test-method is-config="true" signature="post()[pri:0, instance:Poatmethod.postmethod@3370f42]" started-at="2021-08-07T11:14:12Z" name="post" finished-at="2021-08-07T11:14:12Z" duration-ms="0" status="FAIL">
+        <test-method is-config="true" signature="post()[pri:0, instance:Poatmethod.postmethod@3370f42]" started-at="2021-08-11T10:36:06Z" name="post" finished-at="2021-08-11T10:36:06Z" duration-ms="0" status="FAIL">
           <exception class="java.lang.NoClassDefFoundError">
             <message>
               <![CDATA[io/restassured/path/json/mapper/factory/JsonbObjectMapperFactory]]>
@@ -53,7 +53,7 @@ Caused by: java.lang.ClassNotFoundException: io.restassured.path.json.mapper.fac
           <reporter-output>
           </reporter-output>
         </test-method> <!-- post -->
-        <test-method signature="testpost()[pri:0, instance:Poatmethod.postmethod@3370f42]" started-at="2021-08-07T11:14:13Z" name="testpost" finished-at="2021-08-07T11:14:13Z" duration-ms="1" status="SKIP">
+        <test-method signature="testpost()[pri:0, instance:Poatmethod.postmethod@3370f42]" started-at="2021-08-11T10:36:07Z" name="testpost" finished-at="2021-08-11T10:36:07Z" duration-ms="1" status="SKIP">
           <exception class="java.lang.NoClassDefFoundError">
             <message>
               <![CDATA[io/restassured/path/json/mapper/factory/JsonbObjectMapperFactory]]>

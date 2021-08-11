@@ -75,11 +75,9 @@ public class Testcase {
  		and()
  		.body("data.first_name",hasSize(6));
  		//.and().
- 
- 		
+	
  	}
  	
- 	
- 	
+ 
  
 }
